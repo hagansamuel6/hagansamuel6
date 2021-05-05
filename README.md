@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android development and web development with laravel and React
 - 🌱 I’m currently learning React and Android development with jetpack compose
 - 💞️ I’m looking to collaborate on your React, Laravel, and Android projects
-- 📫 How to reach me on Whatsapp +233553002443, twitter hagansamuel6
+- 📫 How to reach me on Whatsapp +233553002443, twitter @hagansamuel6, Gmail hagansamuel6@gmail.com
 
 <!---
 hagansamuel6/hagansamuel6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
