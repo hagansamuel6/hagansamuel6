@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hagansamuel6
 - 👀 I’m interested in Android development and web development with laravel and React
 - 🌱 I’m currently learning React and Android development with jetpack compose
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on your React, Laravel, and Android projects
 - 📫 How to reach me on Whatsapp +233553002443, twitter hagansamuel6
 
 <!---
